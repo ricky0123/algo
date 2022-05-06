@@ -1,4 +1,4 @@
-module algo
+module github.com/ricky0123/algo
 
 go 1.18
 
